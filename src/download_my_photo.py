@@ -43,7 +43,7 @@ def handle():
     payload = {
         "TargetYM": "202203",
         "LatestPhotoSeq": "",
-        "AcquisitionsCount": "3"
+        "AcquisitionsCount": "10"
     }
     headers = {
         "Content-Type": "application/x-www-form-urlencoded",
